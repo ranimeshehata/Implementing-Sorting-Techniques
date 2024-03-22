@@ -11,3 +11,4 @@ This is a **Java Program** implementing 3 different sorting techniques and compa
 
 
 ## Provided a set of 15-20 JUnit tests that test the correctness and efficiency of the different implemented parts.
+The tested cases are provided as text files in the folder cases.
